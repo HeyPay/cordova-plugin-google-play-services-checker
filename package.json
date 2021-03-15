@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-google-play-services-checker",
-  "version": "1.0.5",
+  "version": "1.0.0",
   "description": "Cordova/Ionic/Phonegap plugin for checking that the Google Play Services are installed, updated and enabled",
   "repository": {
     "type": "git",
